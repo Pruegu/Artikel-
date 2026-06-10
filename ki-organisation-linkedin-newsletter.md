@@ -4,153 +4,51 @@
 **Arbeitstitel:** *Warum ungesteuerte KI-Nutzung ein Organisationsrisiko ist*  
 **Lesezeit:** ca. 6 Minuten
 
-Die gefährlichste KI-Einführung ist vielleicht nicht die offiziell beschlossene.
+Die gefährlichste KI-Einführung ist vielleicht nicht die offiziell beschlossene, sondern die, die einfach passiert. Nicht als grosser Transformationsentscheid, nicht mit Projektauftrag, Lenkungsausschuss und sauberem Rollout, sondern als Entwurfshilfe, Rechercheassistent, Sitzungszusammenfassung, Codegenerator, Übersetzungswerkzeug, Chatbot oder Analysehilfe.
 
-Sondern die, die einfach passiert.
-
-KI kommt in Organisationen oft nicht als grosser Transformationsentscheid. Sie kommt als Entwurfshilfe, Rechercheassistent, Sitzungszusammenfassung, Codegenerator, Übersetzungswerkzeug, Chatbot, Analysehilfe.
-
-Alles einzeln betrachtet plausibel. Vieles sogar sinnvoll.
-
-Aber genau darin liegt das Risiko: Die Organisation verändert sich nicht über einen einzigen grossen Entscheid, sondern über viele kleine Gewohnheiten.
-
-Wir sprechen zu oft über KI-Systeme. Wir sprechen zu wenig über die organisatorischen Nebenwirkungen ihrer alltäglichen Nutzung. Gerade dort, wo KI scheinbar nur unterstützt, verändert sie bereits Arbeit, Erwartungen und Verantwortung. [1][2]
+Alles einzeln betrachtet plausibel. Vieles sogar sinnvoll. Und gerade deshalb wird es organisatorisch interessant: KI verändert Organisationen häufig nicht durch einen einzigen grossen Beschluss, sondern durch viele kleine Gewohnheiten, die sich in den Arbeitsalltag einschleichen. Wir sprechen sehr viel über KI-Systeme. Wir sprechen deutlich weniger darüber, was ihre alltägliche Nutzung mit Arbeit, Verantwortung, Qualität und Lernen macht. [1][2]
 
 ## Veränderung fühlt sich normal an, bis sie rückblickend fundamental ist
 
-Dean Ball beschreibt die nahe KI-Zukunft nicht primär als Science-Fiction-Ereignis, sondern als Ausweitung von intellektueller Arbeitskapazität in Unternehmen: mehr Entwürfe, mehr Analyse, mehr Software, mehr Informationsfluss, mehr agentische Unterstützung in alltäglichen Arbeitsprozessen. [2]
+Dean Ball beschreibt die nahe KI-Zukunft nicht primär als Science-Fiction-Ereignis, sondern als Ausweitung von intellektueller Arbeitskapazität in Unternehmen: mehr Entwürfe, mehr Analyse, mehr Software, mehr Informationsfluss und mehr agentische Unterstützung in alltäglichen Arbeitsprozessen. [2] Für Organisationen ist genau das zentral, weil klassische Steuerungsmechanismen meist auf formelle Projekte reagieren: Beschaffung, Datenschutzprüfung, Projektantrag, Governance-Gremium, Freigabe.
 
-Das ist für Organisationen zentral.
-
-Denn klassische Steuerungsmechanismen reagieren oft auf formelle Projekte: Beschaffung, Datenschutzprüfung, Projektantrag, Governance-Gremium, Freigabe.
-
-Aber KI verändert Arbeit häufig bereits vorher: in Entwürfen, Abklärungen, Vorentscheidungen, Priorisierungen, internen Abstimmungen.
-
-Organisationen sind gut darin, Projekte zu prüfen.
-
-Sie sind weniger gut darin, schleichende Praxisveränderungen zu beobachten.
-
-Das ist der Drehpunkt.
+KI verändert Arbeit aber oft früher. Sie verändert Entwürfe, Abklärungen, Vorentscheidungen, Priorisierungen und interne Abstimmungen, lange bevor jemand von einem offiziellen KI-Projekt spricht. Organisationen sind gut darin, Projekte zu prüfen. Sie sind weniger gut darin, schleichende Praxisveränderungen zu beobachten. Genau dort liegt der blinde Fleck.
 
 ## Das Risiko liegt nicht nur im Tool. Es liegt in der Summe der Nutzungen.
 
-Ein einzelner KI-generierter Text ist selten das Problem.
+Ein einzelner KI-generierter Text ist selten das Problem. Ein einzelnes Protokoll auch nicht. Eine einzelne Zusammenfassung ebenfalls nicht. Problematisch wird es, wenn aus vielen kleinen Nutzungen neue Erwartungen entstehen: schneller liefern, mehr Varianten produzieren, weniger selbst recherchieren, KI-Vorschläge als Ausgangspunkt akzeptieren, menschliche Prüfung auf Plausibilitätskontrolle reduzieren oder Routinearbeit auslagern, ohne Lernpfade neu zu gestalten.
 
-Ein einzelnes Protokoll auch nicht.
-
-Eine einzelne Zusammenfassung ebenfalls nicht.
-
-Problematisch wird es, wenn aus vielen kleinen Nutzungen neue Erwartungen entstehen:
-
-- schneller liefern
-- mehr Varianten produzieren
-- weniger selbst recherchieren
-- KI-Vorschläge als Ausgangspunkt akzeptieren
-- menschliche Prüfung auf Plausibilitätskontrolle reduzieren
-- Routinearbeit auslagern, ohne Lernpfade neu zu gestalten
-
-Daron Acemoglu warnt zu Recht vor zu einfachen Produktivitätsversprechen: Die grossen Effekte entstehen nicht automatisch aus dem Tool, sondern hängen davon ab, welche Aufgaben betroffen sind, wie gut der Kontext lernbar ist und ob KI menschliche Fähigkeiten ergänzt oder nur Aufgaben verdrängt. [1]
-
-Die Organisation merkt nicht zuerst, dass KI entscheidet.
-
-Sie merkt zuerst, dass sich die Vorbereitung von Entscheidungen verändert.
-
-Und genau dort entstehen viele Risiken: bei der Auswahl von Informationen, der Gewichtung von Optionen, der Formulierung von Alternativen und der Darstellung von Evidenz.
+Daron Acemoglu warnt deshalb zu Recht vor zu einfachen Produktivitätsversprechen. Die grossen Effekte entstehen nicht automatisch aus dem Tool, sondern hängen davon ab, welche Aufgaben betroffen sind, wie gut der Kontext lernbar ist und ob KI menschliche Fähigkeiten ergänzt oder nur Aufgaben verdrängt. [1] Die Organisation merkt nicht zuerst, dass KI entscheidet. Sie merkt zuerst, dass sich die Vorbereitung von Entscheidungen verändert. Und genau dort entstehen viele Risiken: bei der Auswahl von Informationen, der Gewichtung von Optionen, der Formulierung von Alternativen und der Darstellung von Evidenz.
 
 ## Risiko 1: Faktische Standards ohne bewussten Beschluss
 
-KI-Nutzung kann sehr schnell zur informellen Norm werden.
+KI-Nutzung kann sehr schnell zur informellen Norm werden. Wer KI nutzt, liefert schneller, glatter und umfangreicher. Dadurch entsteht Druck auf andere, nicht über eine Weisung, sondern über Vergleichbarkeit. Sitzungsnotizen sehen plötzlich professioneller aus, Konzepte enthalten mehr Varianten, Berichte werden schneller erwartet, Recherchen wirken vollständiger und Antworten an Anspruchsgruppen sind sprachlich optimiert.
 
-Wer KI nutzt, liefert schneller, glatter, umfangreicher. Dadurch entsteht Druck auf andere. Nicht über eine Weisung, sondern über Vergleichbarkeit.
+Das kann nützlich sein. Aber professioneller Output ist nicht automatisch bessere Qualität. Die Forschung zu generativer KI am Arbeitsplatz zeigt zwar Produktivitätsgewinne, etwa in der Kundenunterstützung. Sie zeigt aber auch, dass Effekte heterogen sind und stark davon abhängen, welche Arbeit unterstützt wird und wie die Unterstützung in den Arbeitsprozess eingebettet ist. [3]
 
-Plötzlich sehen Sitzungsnotizen professioneller aus. Konzepte enthalten mehr Varianten. Berichte werden schneller erwartet. Recherchen wirken vollständiger. Antworten an Anspruchsgruppen sind sprachlich optimiert.
-
-Aber professioneller Output ist nicht automatisch bessere Qualität.
-
-Die Forschung zu generativer KI am Arbeitsplatz zeigt zwar Produktivitätsgewinne, etwa in der Kundenunterstützung. Sie zeigt aber auch, dass Effekte heterogen sind und stark davon abhängen, welche Arbeit unterstützt wird und wie die Unterstützung in den Arbeitsprozess eingebettet ist. [3]
-
-Wenn KI-Nutzung zur stillen Norm wird, entsteht ein neuer Arbeitsstandard, ohne dass die Organisation ihn je verhandelt hat.
-
-Das sind Schattenstandards.
-
-Nicht verboten. Nicht beschlossen. Aber faktisch wirksam.
+Wenn KI-Nutzung zur stillen Norm wird, entsteht ein neuer Arbeitsstandard, ohne dass die Organisation ihn je verhandelt hat. Das sind Schattenstandards: nicht verboten, nicht beschlossen, aber faktisch wirksam.
 
 ## Risiko 2: Verantwortung verschiebt sich, ohne dass sie neu geregelt wird
 
-KI entscheidet oft nicht formell.
+KI entscheidet oft nicht formell. Aber sie bereitet Entscheidungen vor. Sie formuliert Einschätzungen, priorisiert Informationen, schlägt Risiken vor, sortiert Optionen und gibt Tonalität und Struktur vor. Danach bleibt der Mensch formal verantwortlich, während die eigentliche Prägung der Entscheidung womöglich bereits vorher passiert ist.
 
-Aber sie bereitet Entscheidungen vor.
+Die Verantwortung bleibt also beim Menschen, aber der Entscheidungspfad kann sich schleichend in Richtung Maschine verschieben. KI-Vorschläge werden übernommen, weil sie plausibel klingen. Alternativen werden gar nicht mehr gesucht. Fehler werden nicht erkannt, weil die Darstellung überzeugend ist. Die Dokumentation zeigt nur den menschlichen Entscheid, nicht die KI-geprägte Vorarbeit. Rechenschaftspflicht wird schwieriger, weil Einfluss und Verantwortung auseinanderfallen.
 
-Sie formuliert Einschätzungen, priorisiert Informationen, schlägt Risiken vor, sortiert Optionen, gibt Tonalität und Struktur vor.
-
-Dann bleibt der Mensch formal verantwortlich. Aber die eigentliche Prägung der Entscheidung kann bereits vorher passiert sein.
-
-Die Verantwortung bleibt beim Menschen.
-
-Aber der Entscheidungspfad kann sich schleichend in Richtung Maschine verschieben.
-
-Konkrete Risiken:
-
-- KI-Vorschläge werden übernommen, weil sie plausibel klingen.
-- Alternativen werden gar nicht mehr gesucht.
-- Fehler werden nicht erkannt, weil die Darstellung überzeugend ist.
-- Die Dokumentation zeigt nur den menschlichen Entscheid, nicht die KI-geprägte Vorarbeit.
-- Rechenschaftspflicht wird schwieriger, weil Einfluss und Verantwortung auseinanderfallen.
-
-NIST beschreibt generative KI deshalb nicht nur als technisches Risiko, sondern als sozio-technisches Risiko: Organisationen müssen Governance, Mapping, Messung und Management von KI-Risiken zusammen denken. [4]
-
-Das ist kein Argument gegen KI.
-
-Aber ein starkes Argument für Nachvollziehbarkeit.
+NIST beschreibt generative KI deshalb nicht nur als technisches Risiko, sondern als sozio-technisches Risiko: Organisationen müssen Governance, Mapping, Messung und Management von KI-Risiken zusammen denken. [4] Das ist kein Argument gegen KI. Aber es ist ein starkes Argument für Nachvollziehbarkeit.
 
 ## Risiko 3: Kompetenzverlust durch scheinbare Entlastung
 
-KI nimmt Arbeit ab.
+KI nimmt Arbeit ab. Das kann gut sein. Aber Arbeit ist nicht nur Aufwand, sondern auch Erfahrung, Lernen, Fehlerkultur und Fachsozialisation. Wenn KI Routineaufgaben übernimmt, stellt sich deshalb eine unbequeme Frage: Wo lernen Mitarbeitende noch, Qualität zu erkennen? Wo entwickeln Berufseinsteiger:innen Urteilsfähigkeit? Wo entsteht Fachgefühl? Wo lernt man, welche Ausnahme relevant ist?
 
-Das kann gut sein.
+Nicht jede ineffiziente Aufgabe ist überflüssig. Manche Aufgaben sind Trainingsräume für spätere Verantwortung. Andrew McAfee hat genau auf diesen Punkt hingewiesen: Wenn Organisationen Einstiegstätigkeiten zu schnell automatisieren, beschädigen sie unter Umständen ihre eigene Talentpipeline. Routinearbeit ist oft auch Apprenticeship. [5]
 
-Aber Arbeit ist nicht nur Aufwand. Arbeit ist auch Erfahrung, Lernen, Fehlerkultur, Fachsozialisation.
-
-Wenn KI Routineaufgaben übernimmt, stellt sich eine unbequeme Frage: Wo lernen Mitarbeitende noch, Qualität zu erkennen? Wo entwickeln Berufseinsteiger:innen Urteilsfähigkeit? Wo entsteht Fachgefühl? Wo lernt man, welche Ausnahme relevant ist?
-
-Nicht jede ineffiziente Aufgabe ist überflüssig.
-
-Manche Aufgaben sind Trainingsräume für spätere Verantwortung.
-
-Andrew McAfee hat genau auf diesen Punkt hingewiesen: Wenn Organisationen Einstiegstätigkeiten zu schnell automatisieren, beschädigen sie unter Umständen ihre eigene Talentpipeline. Routinearbeit ist oft auch Apprenticeship. [5]
-
-Das sieht man sehr konkret:
-
-- Wer nie selbst Fälle analysiert hat, kann KI-Analysen schlechter beurteilen.
-- Wer nie Rohdaten bereinigt hat, versteht Datenqualität weniger gut.
-- Wer nie schwierige Texte selbst formuliert hat, erkennt rhetorische Verzerrungen schlechter.
-- Wer nie Grundlagenarbeit gemacht hat, kann automatisierte Ergebnisse schlechter einordnen.
-
-Das Risiko ist eine Organisation, die kurzfristig schneller wird, aber langfristig Urteilskraft verliert.
+Das sieht man sehr konkret. Wer nie selbst Fälle analysiert hat, kann KI-Analysen schlechter beurteilen. Wer nie Rohdaten bereinigt hat, versteht Datenqualität weniger gut. Wer nie schwierige Texte selbst formuliert hat, erkennt rhetorische Verzerrungen schlechter. Und wer nie Grundlagenarbeit gemacht hat, kann automatisierte Ergebnisse schlechter einordnen. Das Risiko ist eine Organisation, die kurzfristig schneller wird, aber langfristig Urteilskraft verliert.
 
 ## Risiko 4: Mehr Output, aber neue Engpässe
 
-Produktivität muss am Gesamtprozess gemessen werden, nicht an einzelnen Aktivitäten.
+Produktivität muss am Gesamtprozess gemessen werden, nicht an einzelnen Aktivitäten. KI kann mehr Texte, Konzepte, Analysen, Varianten, Code oder Entscheidungsgrundlagen erzeugen. Aber irgendjemand muss prüfen, priorisieren, verantworten, abstimmen, entscheiden und erklären. Wenn diese Kapazität nicht mitwächst, verschiebt KI den Engpass.
 
-KI kann mehr Texte, Konzepte, Analysen, Varianten, Code oder Entscheidungsgrundlagen erzeugen.
-
-Aber irgendjemand muss prüfen, priorisieren, verantworten, abstimmen, entscheiden und erklären.
-
-Wenn diese Kapazität nicht mitwächst, verschiebt KI den Engpass.
-
-Ethan Mollick argumentiert, dass generative KI nicht einfach ein weiteres IT-Werkzeug ist, sondern Organisationsstrukturen herausfordert: Wissen, Koordination und Entscheidungsvorbereitung werden neu verteilt. [6]
-
-KI kann deshalb den Output einzelner Tätigkeiten erhöhen und gleichzeitig die Entscheidungsfähigkeit der Organisation schwächen.
-
-Dann entsteht mehr Material statt besserer Entscheidungen.
-
-Mehr Prüfaufwand.
-
-Mehr Abstimmungsbedarf.
-
-Mehr Varianten ohne Priorisierung.
-
-Höhere Belastung bei Fachverantwortlichen und Führungskräften.
+Ethan Mollick argumentiert, dass generative KI nicht einfach ein weiteres IT-Werkzeug ist, sondern Organisationsstrukturen herausfordert: Wissen, Koordination und Entscheidungsvorbereitung werden neu verteilt. [6] KI kann deshalb den Output einzelner Tätigkeiten erhöhen und gleichzeitig die Entscheidungsfähigkeit der Organisation schwächen. Dann entsteht mehr Material statt besserer Entscheidungen, mehr Prüfaufwand, mehr Abstimmungsbedarf, mehr Varianten ohne Priorisierung und höhere Belastung bei Fachverantwortlichen und Führungskräften.
 
 Gerade für Verwaltung und öffentliche Organisationen ist das entscheidend: Nicht Geschwindigkeit allein zählt, sondern Verlässlichkeit, Qualität, Gleichbehandlung und Wirkung.
 
