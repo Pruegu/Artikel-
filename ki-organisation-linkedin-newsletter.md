@@ -54,25 +54,79 @@ Gerade für Verwaltung und öffentliche Organisationen ist das entscheidend: Nic
 
 ## Risiko 5: Neue Ungleichheiten innerhalb der Organisation
 
-KI verteilt Fähigkeiten neu. Wer Zugang zu besseren Tools, mehr Wissen, mehr Zeit zum Experimentieren oder mehr Unterstützung hat, wird produktiver. Andere bleiben zurück. Das kann innerhalb einer Organisation neue Unterschiede schaffen: zwischen grossen und kleinen Dienstabteilungen, zwischen Fachbereichen mit eigener IT und solchen ohne, zwischen Mitarbeitenden mit hoher digitaler Sicherheit und solchen mit Unsicherheit, zwischen Führungskräften, die KI strategisch einordnen können, und solchen, die nur reagieren, oder zwischen Bereichen mit klaren Datenstrukturen und Bereichen mit fragmentierten Grundlagen.
+KI verteilt Fähigkeiten neu.
 
-Die OECD weist darauf hin, dass KI-Adoption ungleich verteilt ist: grössere Unternehmen nutzen KI deutlich häufiger als kleinere, und nicht alle Beschäftigten oder Organisationen sind gleich gut positioniert, um Produktivitätsgewinne zu realisieren. [7] KI demokratisiert Fähigkeiten also nicht automatisch. Sie kann bestehende Reifegradunterschiede auch vergrössern. Deshalb braucht es Befähigung, gemeinsame Standards und realistische Unterstützung.
+Wer Zugang zu besseren Tools, mehr Wissen, mehr Zeit zum Experimentieren oder mehr Unterstützung hat, wird produktiver. Andere bleiben zurück.
+
+Das kann innerhalb einer Organisation neue Unterschiede schaffen:
+
+- zwischen grossen und kleinen Dienstabteilungen
+- zwischen Fachbereichen mit eigener IT und solchen ohne
+- zwischen Mitarbeitenden mit hoher digitaler Sicherheit und solchen mit Unsicherheit
+- zwischen Führungskräften, die KI strategisch einordnen können, und solchen, die nur reagieren
+- zwischen Bereichen mit klaren Datenstrukturen und Bereichen mit fragmentierten Grundlagen
+
+Die OECD weist darauf hin, dass KI-Adoption ungleich verteilt ist: grössere Unternehmen nutzen KI deutlich häufiger als kleinere, und nicht alle Beschäftigten oder Organisationen sind gleich gut positioniert, um Produktivitätsgewinne zu realisieren. [7]
+
+KI demokratisiert Fähigkeiten nicht automatisch.
+
+Sie kann bestehende Reifegradunterschiede auch vergrössern.
+
+Deshalb braucht es Befähigung, gemeinsame Standards und realistische Unterstützung.
 
 ## Was heisst bewusste Steuerung?
 
-Bewusste Steuerung heisst nicht, alles zentral zu kontrollieren, jede Nutzung zu bewilligen und Innovation zu bremsen. Bewusste Steuerung heisst, sichtbar zu machen, wo KI eingesetzt wird, für welche Aufgaben, mit welchen Daten und mit welchem Einfluss auf Ergebnisse. Sie heisst auch, Rollen zu klären: Wer darf was entscheiden? Wer prüft Qualität? Wer verantwortet fachliche Richtigkeit? Wer dokumentiert KI-Einfluss?
+Bewusste Steuerung heisst nicht: alles zentral kontrollieren, jede Nutzung bewilligen, Innovation bremsen.
 
-Genauso wichtig ist es, Lernräume zu schützen. Organisationen müssen entscheiden, welche Aufgaben nicht sofort automatisiert werden sollen, weil sie für Kompetenzaufbau wichtig sind. Sie müssen Prozesse statt Einzelaufgaben betrachten und fragen, wo echter Nutzen im Gesamtprozess entsteht und wo lediglich mehr Output produziert wird. Und sie müssen Führungskräfte entlasten und befähigen, weil diese nicht nur Tool-Schulungen brauchen, sondern Standards, Orientierung und Entscheidungshilfen.
+Bewusste Steuerung heisst etwas anderes.
 
-Hinzu kommt ein organisatorisches Monitoring, das über Datenschutz und Informationssicherheit hinausgeht. Es sollte regelmässig beobachten, wie sich Rollen, Verantwortung, Kompetenzen, Qualität und Belastung verändern. McKinsey beschreibt in seiner aktuellen KI-Erhebung genau diese Verschiebung: Wert entsteht dort, wo Organisationen Governance, Workflow-Redesign, rollenbasierte Befähigung, Feedbackmechanismen, KPIs und Führungshandeln zusammenbringen. [8]
+**1. Sichtbarkeit schaffen**  
+Wo wird KI eingesetzt? Für welche Aufgaben? Mit welchen Daten? Mit welchem Einfluss auf Ergebnisse?
 
-Erik Brynjolfsson und Kolleg:innen sprechen im Stanford *Enterprise AI Playbook* ebenfalls von komplementären Investitionen: KI entfaltet Wert nicht isoliert, sondern zusammen mit Prozessdesign, Kompetenzen, Messsystemen und organisatorischer Anpassung. [9] Der Kern ist einfach: KI-Governance darf nicht nur fragen, ob ein Tool zulässig ist. Sie muss auch fragen, was die Nutzung mit der Organisation macht.
+**2. Rollen klären**  
+Wer darf was entscheiden? Wer prüft Qualität? Wer verantwortet fachliche Richtigkeit? Wer dokumentiert KI-Einfluss?
+
+**3. Lernräume schützen**  
+Welche Aufgaben sollen nicht sofort automatisiert werden, weil sie für Kompetenzaufbau wichtig sind?
+
+**4. Prozesse statt Einzelaufgaben betrachten**  
+Wo entsteht echter Nutzen im Gesamtprozess? Wo nur mehr Output?
+
+**5. Führung entlasten und befähigen**  
+Führungskräfte brauchen Standards, Orientierung und Entscheidungshilfen. Nicht nur Tool-Schulungen.
+
+**6. Organisatorisches Monitoring etablieren**  
+Nicht nur Datenschutz und Informationssicherheit prüfen, sondern regelmässig beobachten: Rollen, Verantwortung, Kompetenzen, Qualität, Belastung.
+
+McKinsey beschreibt in seiner aktuellen KI-Erhebung genau diese Verschiebung: Wert entsteht dort, wo Organisationen Governance, Workflow-Redesign, rollenbasierte Befähigung, Feedbackmechanismen, KPIs und Führungshandeln zusammenbringen. [8]
+
+Erik Brynjolfsson und Kolleg:innen sprechen im Stanford *Enterprise AI Playbook* ebenfalls von komplementären Investitionen: KI entfaltet Wert nicht isoliert, sondern zusammen mit Prozessdesign, Kompetenzen, Messsystemen und organisatorischer Anpassung. [9]
+
+Der Kern ist einfach:
+
+KI-Governance darf nicht nur fragen, ob ein Tool zulässig ist.
+
+Sie muss auch fragen, was die Nutzung mit der Organisation macht.
 
 ## Die Organisation muss lernfähig bleiben
 
-KI kann Arbeit erleichtern, Qualität erhöhen und Menschen befähigen. Aber das passiert nicht automatisch. Ohne bewusste Steuerung entsteht nicht einfach Innovation, sondern auch Schattenpraxis, Verantwortungsdiffusion, Kompetenzverlust und neue Engpässe.
+KI kann Arbeit erleichtern.
 
-Die entscheidende Frage ist deshalb nicht, ob Organisationen KI nutzen. Die entscheidende Frage ist, ob sie früh genug erkennen, wie KI ihre Organisation verändert. KI wird Organisationen verändern. Die offene Frage ist, ob diese Veränderung gestaltet wird — oder ob sie einfach passiert.
+KI kann Qualität erhöhen.
+
+KI kann Menschen befähigen.
+
+Aber das passiert nicht automatisch.
+
+Ohne bewusste Steuerung entsteht nicht einfach Innovation, sondern auch Schattenpraxis, Verantwortungsdiffusion, Kompetenzverlust und neue Engpässe.
+
+Die entscheidende Frage ist deshalb nicht, ob Organisationen KI nutzen.
+
+Die entscheidende Frage ist, ob sie früh genug erkennen, wie KI ihre Organisation verändert.
+
+KI wird Organisationen verändern.
+
+Die offene Frage ist, ob diese Veränderung gestaltet wird — oder ob sie einfach passiert.
 
 ---
 
